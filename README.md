@@ -2,7 +2,7 @@
 - 👀 I’m interested in improving my skills
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on anything interesting
-- 📫 How to reach me ...
+
 
 <!---
 Ajansoma/Ajansoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
